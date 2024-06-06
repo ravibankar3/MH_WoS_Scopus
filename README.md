@@ -1,2 +1,3 @@
 # MH_WoS_Scopus
 WOS and Scopus data Maharashtra
+Open Excel Sheet and retrieve data by pasting urls to browser...
